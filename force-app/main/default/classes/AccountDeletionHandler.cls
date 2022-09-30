@@ -9,7 +9,7 @@ public class AccountDeletionHandler {
             if(mapAcc.get(a.Id).Contacts.size()>2){
                 a.addError('can not be delete the account');
                 //My VS Code practical
-            
+                //comment
             }
         }
     }
